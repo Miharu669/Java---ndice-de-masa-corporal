@@ -1,5 +1,5 @@
 package dev.vero;
-// Imc.java
+
 public class Imc {
     public static double CalculateIMC(double weight, double height) {
         if (weight <= 0 || height <= 0) {
